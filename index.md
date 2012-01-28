@@ -10,7 +10,6 @@ title: Stephen DiCato
   {% endfor %}
 </ul>
 
-## To-Do
 
 
 
