@@ -3,7 +3,7 @@
 permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rbenv-version", "README.md", "Rakefile"]
-highlighter: true
+highlighter: pygments
 
 title : stephendicato.com
 email : stephendicato@gmail.com
