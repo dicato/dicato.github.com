@@ -57,3 +57,6 @@ target/
 # Pelican directories
 cache/
 output/
+
+# OSX
+*.DS_Store
