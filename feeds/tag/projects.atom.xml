@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>stephendicato.com</title><link href="http://stephendicato.com/" rel="alternate"></link><link href="http://stephendicato.com/feeds/atom.xml" rel="self"></link><id>http://stephendicato.com/</id><updated>2017-02-05T00:00:00-05:00</updated><entry><title>Learning to Weld</title><link href="http://stephendicato.com/posts/2017/02/05/learned-to-weld/" rel="alternate"></link><published>2017-02-05T00:00:00-05:00</published><updated>2017-02-05T00:00:00-05:00</updated><author><name>Stephen DiCato</name></author><id>tag:stephendicato.com,2017-02-05:posts/2017/02/05/learned-to-weld/</id><summary type="html">&lt;p&gt;I've always had an interest in welding and metal fabrication, especially as tools used to restore and customize
+<feed xmlns="http://www.w3.org/2005/Atom"><title>stephendicato.com</title><link href="http://stephendicato.com/" rel="alternate"></link><link href="http://stephendicato.com/feeds/tag/projects.atom.xml" rel="self"></link><id>http://stephendicato.com/</id><updated>2017-02-05T00:00:00-05:00</updated><entry><title>Learning to Weld</title><link href="http://stephendicato.com/posts/2017/02/05/learned-to-weld/" rel="alternate"></link><published>2017-02-05T00:00:00-05:00</published><updated>2017-02-05T00:00:00-05:00</updated><author><name>Stephen DiCato</name></author><id>tag:stephendicato.com,2017-02-05:posts/2017/02/05/learned-to-weld/</id><summary type="html">&lt;p&gt;I've always had an interest in welding and metal fabrication, especially as tools used to restore and customize
 cars. I took a 10 week introductory welding class last fall. Below are my unedited notes and pictures from each week.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;I'm taking a beginner welding class at the local vocational school and thought others might find it interesting.
@@ -89,31 +89,4 @@ Dealing with the aluminum oxide is a pain in the ass.&lt;/p&gt;
 &lt;p&gt;&lt;img src="/images/welding/week-10.1.png" class="img-thumbnail" alt="Week 10 TIG 1"&gt;
 &lt;img src="/images/welding/week-10.2.png" class="img-thumbnail" alt="Week 10 TIG 2"&gt;&lt;/p&gt;
 &lt;p&gt;That's it. I assume I'll take the advanced class at some point, but would like to get a welding setup
-at home first and work on some of my planned projects.&lt;/p&gt;</summary><category term="welding"></category><category term="projects"></category><category term="automotive"></category></entry><entry><title>Onboarding Engineers</title><link href="http://stephendicato.com/posts/2015/09/11/onboarding-engineers-2015/" rel="alternate"></link><published>2015-09-11T00:00:00-04:00</published><updated>2015-09-11T00:00:00-04:00</updated><author><name>Stephen DiCato</name></author><id>tag:stephendicato.com,2015-09-11:posts/2015/09/11/onboarding-engineers-2015/</id><summary type="html">&lt;p&gt;&lt;a href="http://strongarm.io"&gt;Percipient Networks&lt;/a&gt; sponsored
-&lt;a href="https://2015.djangocon.us/"&gt;DjangoCon 2015&lt;/a&gt;. While there, I proposed a
-lightning talk on onboarding engineers. Due to time I was not able to actually
-present. However, the content is &lt;a href="https://github.com/percipient/talks/tree/master/djangocon_09_09_2015"&gt;available on GitHub&lt;/a&gt;
-including a &lt;a href="https://github.com/percipient/talks/blob/master/djangocon_09_09_2015/onboarding_engineers.pdf"&gt;rendered PDF&lt;/a&gt; of the slides.&lt;/p&gt;</summary><category term="engineering"></category><category term="hiring"></category><category term="recruiting"></category></entry><entry><title>Boston Python - Twisted Concepts &amp; Patterns</title><link href="http://stephendicato.com/posts/2015/08/28/boston-python-twisted-talk/" rel="alternate"></link><published>2015-08-28T00:00:00-04:00</published><updated>2015-08-28T00:00:00-04:00</updated><author><name>Stephen DiCato</name></author><id>tag:stephendicato.com,2015-08-28:posts/2015/08/28/boston-python-twisted-talk/</id><summary type="html">&lt;p&gt;&lt;a href="http://patrick.cloke.us/"&gt;Patrick Cloke&lt;/a&gt; and I recently gave a talk at
-&lt;a href="http://www.meetup.com/bostonpython/"&gt;Boston Python&lt;/a&gt; meetup
-about the &lt;a href="https://twistedmatrix.com/"&gt;Twisted Networking Framework&lt;/a&gt;.
-It was an introductory to intermediate level talk based on our experiences
-using Twisted at &lt;a href="http://strongarm.io"&gt;Percipient Networks&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The slides and example code are available on
-&lt;a href="https://github.com/percipient/talks"&gt;GitHub&lt;/a&gt;. There is a
-&lt;a href="https://github.com/percipient/talks/blob/master/boston_python_08_27_2015/boston_python_08_27_2015.pdf"&gt;rendered PDF&lt;/a&gt;
-for convenience. The talk covered:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;What is asynchronous programming?&lt;/li&gt;
-&lt;li&gt;What is Twisted?&lt;/li&gt;
-&lt;li&gt;When/why to use Twisted?&lt;/li&gt;
-&lt;li&gt;What is the event loop (&lt;code&gt;reactor&lt;/code&gt;)?&lt;/li&gt;
-&lt;li&gt;What are &lt;code&gt;Deferreds&lt;/code&gt; and how do you use them?&lt;/li&gt;
-&lt;li&gt;What are protocols, protocol factories, and transports?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Additionally, there was a "bonus" section on using Twisted to build systems
-and services. We used an example of a simple chat server with an admin
-dashboard to demonstrate integrating Twisted in the larger Python ecosystem.&lt;/p&gt;
-&lt;p&gt;Thank you to everyone who attended, the sponsors for the night, and the
-organizers of &lt;a href="http://www.meetup.com/bostonpython/"&gt;Boston Python&lt;/a&gt;.
-An additional thank you goes out to Patrick for co-presenting and my very
-supportive wife for attending.&lt;/p&gt;</summary><category term="python"></category><category term="twisted"></category></entry></feed>
+at home first and work on some of my planned projects.&lt;/p&gt;</summary><category term="welding"></category><category term="projects"></category><category term="automotive"></category></entry></feed>
