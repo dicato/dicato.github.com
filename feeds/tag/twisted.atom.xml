@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>stephendicato.com</title><link href="http://stephendicato.com/" rel="alternate"></link><link href="http://stephendicato.com/feeds/tag/twisted.atom.xml" rel="self"></link><id>http://stephendicato.com/</id><updated>2015-08-28T00:00:00-04:00</updated><entry><title>Boston Python - Twisted Concepts &amp; Patterns</title><link href="http://stephendicato.com/posts/2015/08/28/boston-python-twisted-talk/" rel="alternate"></link><published>2015-08-28T00:00:00-04:00</published><updated>2015-08-28T00:00:00-04:00</updated><author><name>Stephen DiCato</name></author><id>tag:stephendicato.com,2015-08-28:posts/2015/08/28/boston-python-twisted-talk/</id><summary type="html">&lt;p&gt;&lt;a href="http://patrick.cloke.us/"&gt;Patrick Cloke&lt;/a&gt; and I recently gave a talk at
+<feed xmlns="http://www.w3.org/2005/Atom"><title>stephendicato.com - twisted</title><link href="http://stephendicato.com/" rel="alternate"></link><link href="http://stephendicato.com/feeds/tag/twisted.atom.xml" rel="self"></link><id>http://stephendicato.com/</id><updated>2015-08-28T00:00:00-04:00</updated><entry><title>Boston Python - Twisted Concepts &amp; Patterns</title><link href="http://stephendicato.com/posts/2015/08/28/boston-python-twisted-talk/" rel="alternate"></link><published>2015-08-28T00:00:00-04:00</published><updated>2015-08-28T00:00:00-04:00</updated><author><name>Stephen DiCato</name></author><id>tag:stephendicato.com,2015-08-28:/posts/2015/08/28/boston-python-twisted-talk/</id><summary type="html">&lt;p&gt;&lt;a href="http://patrick.cloke.us/"&gt;Patrick Cloke&lt;/a&gt; and I recently gave a talk at
+&lt;a href="http://www.meetup.com/bostonpython/"&gt;Boston Python&lt;/a&gt; meetup
+about the &lt;a href="https://twistedmatrix.com/"&gt;Twisted Networking Framework&lt;/a&gt;.
+It was an introductory to intermediate level talk based on our experiences
+using Twisted at &lt;a href="http://strongarm.io"&gt;Percipient Networks&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The slides and example code are available on
+&lt;a href="https://github.com/percipient/talks"&gt;GitHub&lt;/a&gt;. There is a
+&lt;a href="https://github.com/percipient/talks/blob/master/boston_python_08_27_2015/boston_python_08_27_2015.pdf"&gt;rendered PDF&lt;/a&gt;
+for convenience …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="http://patrick.cloke.us/"&gt;Patrick Cloke&lt;/a&gt; and I recently gave a talk at
 &lt;a href="http://www.meetup.com/bostonpython/"&gt;Boston Python&lt;/a&gt; meetup
 about the &lt;a href="https://twistedmatrix.com/"&gt;Twisted Networking Framework&lt;/a&gt;.
 It was an introductory to intermediate level talk based on our experiences
@@ -22,4 +30,4 @@ dashboard to demonstrate integrating Twisted in the larger Python ecosystem.&lt;
 &lt;p&gt;Thank you to everyone who attended, the sponsors for the night, and the
 organizers of &lt;a href="http://www.meetup.com/bostonpython/"&gt;Boston Python&lt;/a&gt;.
 An additional thank you goes out to Patrick for co-presenting and my very
-supportive wife for attending.&lt;/p&gt;</summary><category term="python"></category><category term="twisted"></category></entry></feed>
+supportive wife for attending.&lt;/p&gt;</content><category term="python"></category><category term="twisted"></category></entry></feed>
