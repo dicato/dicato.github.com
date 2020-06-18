@@ -6,8 +6,6 @@ Tags: welding, projects, automotive
 I've always had an interest in welding and metal fabrication, especially as tools used to restore and customize
 cars. I took a 10 week introductory welding class last fall. Below are my unedited notes and pictures from each week.
 
-----
-
 I'm taking a beginner welding class at the local vocational school and thought others might find it interesting.
 I'll make an update each week. Feedback is very welcome.
 
