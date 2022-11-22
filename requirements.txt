@@ -3,7 +3,7 @@ Markdown==2.6.11
 feedparser==5.2.1
 ghp_import==0.5.5
 pelican==3.7.1
-Pillow==6.2.2
+Pillow==9.3.0
 SimpleHTTP404Server==0.2.0
 typogrify==2.0.7
 webassets==0.12.1
